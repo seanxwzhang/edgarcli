@@ -2,7 +2,7 @@ import argparse
 import edgar
 import pdfkit
 
-def _build_index(dir, since_year):
+def update_index()
   edgar.download_index(dir, since_year)
 
 
